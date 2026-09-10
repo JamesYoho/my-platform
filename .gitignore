@@ -1,0 +1,25 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Java / Gradle generated files
+.gradle/
+build/
+out/
+*.class
+*.jar
+*.log
+
+# Node / React / Vite generated files
+node_modules/
+dist/
+npm-debug.log*
+
+# IntelliJ IDEA local files
+.idea/
+*.iml
+
+# Common operating-system-generated files
+.DS_Store
+Thumbs.db
