@@ -24,7 +24,7 @@ function App() {
         </div>
         <div className="bio">
           <p>
-            Hi, I'm James. I am a student based in Northern Virginia with a strong background in software engineering and quantitative analysis. 
+            Hi, I'm James. I am a student based in Northern Virginia with a strong background in software engineering. 
             I am particularly interested in leveraging my technical skills for defense contracting work and national security applications.
           </p>
           <div className="tags">
